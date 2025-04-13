@@ -1,0 +1,4 @@
+tkinter>=8.6
+pyperclip>=1.8.2
+cryptography>=38.0.0
+pillow>=9.0.0  # Para futuras versiones con soporte de imágenes
